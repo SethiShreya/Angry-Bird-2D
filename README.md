@@ -1,14 +1,24 @@
 # Angry Birds Game (Unity)
 
-Welcome to my Angry Birds game project, built using the Unity game engine!
+## Overview
+
+Welcome to my Angry Birds game project, built using the Unity game engine! In this game, you play as a group of birds who must save their friends from evil pigs. You launch the birds from a slingshot and try to hit the pigs to progress to the next level.
+
+## Screenshots
+
+![screenshot.png](screenshot.png)
+
+## Demo
+
+![demo.gif](demo.gif)
 
 ## Getting Started
 
 To play the game, download the `AngryBirdsGame.apk` file from the releases page and install it on your Android device. You can also download the source code and run the game in the Unity editor.
 
-## Gameplay Overview
+## Folder Structure
 
-In this game, you play as a group of birds who must save their friends from evil pigs. You launch the birds from a slingshot and try to hit the pigs to progress to the next level.
+
 
 ## Folder Structure
 
