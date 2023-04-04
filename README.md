@@ -18,10 +18,6 @@ To play the game, download the `AngryBirdsGame.apk` file from the releases page 
 
 ## Folder Structure
 
-
-
-## Folder Structure
-
 ├── [Assets/](https://github.com/SethiShreya/Angry-Bird-2D/tree/master/Assets)<br>
 ├── [ProjectSettings/](https://github.com/SethiShreya/Angry-Bird-2D/tree/master/ProjectSettings)<br>
 ├── [Packages/](https://github.com/SethiShreya/Angry-Bird-2D/tree/master/Packages)<br>
